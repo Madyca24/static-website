@@ -7,3 +7,7 @@ a {
 body {
     text-align: center;
 }
+#button {
+    margin: 20px;
+    font-size: 17px;
+}
