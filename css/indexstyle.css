@@ -1,0 +1,14 @@
+h1 {
+    font-size: 35px;
+}
+p {
+    font-size: 25px;
+}
+body {
+    text-align: center;
+}
+.animal {
+    height: 200px;
+    border-radius: 10px;
+    margin: 10px;
+}
